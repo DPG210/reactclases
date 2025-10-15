@@ -1,4 +1,4 @@
-import { Component } from "react";
+    import { Component } from "react";
 
 //PODEMOS DECLARAR METODOS FUERA DE LA CLASE
 //DICHOS METODOS NO PUEDE UTILIZAR NADA DEL COMPONENTE
