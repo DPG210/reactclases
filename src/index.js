@@ -9,12 +9,13 @@ import DibujosComplejosRender from './components/DibujosComplejosRender';
 import PadreDeportes from './components/PadreDeportes';
 import PadreNumeros from './components/PadreNumeros';
 import PadreNumeroProfe from './components/PadreNumeroProfe';
+import Comics from './components/Comics';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <PadreNumeroProfe/>
+    <Comics/>
   </React.StrictMode>
 );
 

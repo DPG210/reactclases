@@ -20,9 +20,7 @@ class PadreNumeros extends Component{
     }
 
 
-    mostrarSuma=(suma)=>{
-        return suma;
-    }
+    
 
     render(){
         return(<div>
